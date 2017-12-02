@@ -38,8 +38,7 @@
         <splash density="port-hdpi" src="resources/android/splash/drawable-port-hdpi-screen.png" />
         <splash density="port-xhdpi" src="resources/android/splash/drawable-port-xhdpi-screen.png" />
         <splash density="port-xxhdpi" src="resources/android/splash/drawable-port-xxhdpi-screen.png" />
-        <splash density="port-xxxhdpi" src="resources/android/splash/drawable-port-xxxhdpi-screen.png" />
-        <preference name="CodePushDeploymentKey" value="652b11a9-3641-4454-8503-f3794fa860ae" />
+        <splash density="port-xxxhdpi" src="resources/android/splash/drawable-port-xxxhdpi-screen.png" />        
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
